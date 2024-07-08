@@ -16,11 +16,11 @@ To run the notebook, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/e-politis/Real-vs-AI-generated-faces.git
    ```
 2. Navigate to the repository directory:
    ```bash
-   cd your-repository-name
+   cd Real-vs-AI-generated-faces
    ```
 3. Install the required dependencies:
    ```bash
